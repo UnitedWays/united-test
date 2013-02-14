@@ -1,4 +1,4 @@
 united-test
 ===========
 
-Testing git for nitedways
+Testing git for Unitedways
